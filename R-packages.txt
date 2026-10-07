@@ -1,0 +1,16 @@
+tidyr
+dplyr
+ggplot2
+lubridate
+stringr
+readr
+vader
+future
+furrr
+stringi
+lmtest
+sandwich
+interactions
+car
+tibble
+scales

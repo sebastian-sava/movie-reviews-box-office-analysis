@@ -1,0 +1,33 @@
+# Private / source data
+data/private/
+data/processed/
+*.csv
+
+# Keep documentation files inside data/
+!data/README.md
+
+# Notebook / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Secrets / local settings
+.env
+*.key
+*.pem
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated scratch output
+*.html
